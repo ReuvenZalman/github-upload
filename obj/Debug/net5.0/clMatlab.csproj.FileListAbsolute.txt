@@ -1,0 +1,12 @@
+C:\Users\Judith Aharon\source\repos\clMatlab\bin\Debug\net5.0\clMatlab.deps.json
+C:\Users\Judith Aharon\source\repos\clMatlab\bin\Debug\net5.0\clMatlab.dll
+C:\Users\Judith Aharon\source\repos\clMatlab\bin\Debug\net5.0\ref\clMatlab.dll
+C:\Users\Judith Aharon\source\repos\clMatlab\bin\Debug\net5.0\clMatlab.pdb
+C:\Users\Judith Aharon\source\repos\clMatlab\obj\Debug\net5.0\clMatlab.csproj.AssemblyReference.cache
+C:\Users\Judith Aharon\source\repos\clMatlab\obj\Debug\net5.0\clMatlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Judith Aharon\source\repos\clMatlab\obj\Debug\net5.0\clMatlab.AssemblyInfoInputs.cache
+C:\Users\Judith Aharon\source\repos\clMatlab\obj\Debug\net5.0\clMatlab.AssemblyInfo.cs
+C:\Users\Judith Aharon\source\repos\clMatlab\obj\Debug\net5.0\clMatlab.csproj.CoreCompileInputs.cache
+C:\Users\Judith Aharon\source\repos\clMatlab\obj\Debug\net5.0\clMatlab.dll
+C:\Users\Judith Aharon\source\repos\clMatlab\obj\Debug\net5.0\ref\clMatlab.dll
+C:\Users\Judith Aharon\source\repos\clMatlab\obj\Debug\net5.0\clMatlab.pdb
