@@ -1,3 +1,5 @@
 This is the first change.
 This is another 
 change on an additional line.
+
+This should only appear in the new branch.
