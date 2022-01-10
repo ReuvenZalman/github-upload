@@ -3,15 +3,8 @@ using System.IO;
 
 namespace clMatlab
 {
-    /// <summary>
-    ///  This class performs an important function.
-    /// </summary>
-    public class clMatlab
+        public class clMatlab
     {
-        /// <summary>
-        /// this will be the tooltip
-        /// </summary>
-        /// <param name="path">Big brain time.</param>
         public static int[,] getMatrixFromPath(string path, string sp,int rowOffset = 0)
         {
             int[,] M = null;
